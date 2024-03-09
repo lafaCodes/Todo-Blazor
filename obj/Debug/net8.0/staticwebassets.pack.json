@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/To-do/Todo/obj/Debug/net8.0/scopedcss/projectbundle/Todo.bundle.scp.css",
+      "PackagePath": "staticwebassets/Todo.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/To-do/Todo/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/To-do/Todo/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/To-do/Todo/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/To-do/Todo/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Todo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Todo.props",
+      "PackagePath": "build\\Todo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Todo.props",
+      "PackagePath": "buildMultiTargeting\\Todo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Todo.props",
+      "PackagePath": "buildTransitive\\Todo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
